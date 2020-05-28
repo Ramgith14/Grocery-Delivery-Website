@@ -1,0 +1,2 @@
+# Grocery-Delivery-Website
+Python is used to scrape product names/prices from 3 major supermarkets - Sainsburys, Tesco and Waitrose. The python code has been developed to scrape out just the right data we need to and clear any unwanted spaces, characters etc. The data is saved in CSV files and imported on to the website using javascript and HTML.  The aim of this project was to demonstrate a platform where users can order groceries and get them delivered with in 30 minutes, very similar to Just eat and Deliveroo.
